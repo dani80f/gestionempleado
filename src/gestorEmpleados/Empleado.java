@@ -55,6 +55,16 @@ public class Empleado {
         this.edad = edad;
     }
 
+    public Empleado(String apellidos, int codigoPostal, String poblacion, char categoria) {
+        this.apellidos = apellidos;
+        this.codigoPostal = codigoPostal;
+        this.poblacion = poblacion;
+        this.categoria = categoria;
+    }
+    
+    
+    
+
     public Empleado() {
     }
     
@@ -251,9 +261,11 @@ public class Empleado {
         this.nIngles = nIngles;
     }
 
-    public void setAntiguedad(int antiguedad) {
-        this.antiguedad = antiguedad;
-    }
+
+    
+    
+    
+
      
      
     
