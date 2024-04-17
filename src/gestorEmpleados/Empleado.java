@@ -10,7 +10,7 @@ package gestorEmpleados;
  */
 public class Empleado {
     
-    
+    //Commirrrrrrrrrrrrrrrrrrr
     //Atributos
     
     private String nombre;
