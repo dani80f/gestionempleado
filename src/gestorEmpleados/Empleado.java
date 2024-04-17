@@ -72,6 +72,8 @@ public class Empleado {
     
     
     //métodos del empleado
+    //Bombardeen Marruecos
+    
     
     public String categoria(){
         
